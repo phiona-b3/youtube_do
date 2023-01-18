@@ -26,7 +26,7 @@ On visiting the site, the user will be directed to a home page
 
 
 
-When the user clicks on a particualr video, she/he will be directed to the vidoes page where the user can watch it and also see other related videos.
+When the user clicks on a particualr video, she/he will be directed to the videos page where the user can watch it and also see other related videos.
 
 
 
