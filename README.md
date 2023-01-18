@@ -1,6 +1,12 @@
 
 # YOUTUBE_do
 
+
+![image](https://user-images.githubusercontent.com/102053232/213178281-d5940d0f-1f13-4dcd-9a50-473c9806728b.png)
+
+
+
+
 YOUTUBE_do is a clone of the popular youtube app. 
 
 It is designed to give the user an amazing surfing experience while searching for their favorite videos in different categories like coding, music, fashion among others.
@@ -14,9 +20,28 @@ https://tourmaline-taiyaki-63741c.netlify.app
 
 On visiting the site, the user will be directed to a home page
 
+
+![image](https://user-images.githubusercontent.com/102053232/213178340-d075e0ab-1846-48f3-8442-de5fdc52f0c4.png)
+
+
+
+
 When the user clicks on a particualr video, she/he will be directed to the vidoes page where the user can watch it and also see other related videos.
 
+
+
+![image](https://user-images.githubusercontent.com/102053232/213178538-786117e8-dece-4ab6-8495-8a98923c20ee.png)
+
+
+
+
 The app is designed such that the user can browse through various categories and genres and also be able to search for more videos.
+
+
+![image](https://user-images.githubusercontent.com/102053232/213178707-74ee3525-3fd1-42ad-8839-7093e03a7515.png)
+
+
+
 
 
 ## Deployment
